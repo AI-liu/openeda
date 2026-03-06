@@ -1,5 +1,7 @@
-![pcb_design_flow](https://github.com/user-attachments/assets/ea3c3e9a-de3a-489c-b206-856430502a23)# openeda
+# openeda
 kicad , pcb  design ,   AI
+
+![pcb_design_flow](https://github.com/user-attachments/assets/ea3c3e9a-de3a-489c-b206-856430502a23)
 
 
 ![Upl<?xml version="1.0" encoding="UTF-8"?>
